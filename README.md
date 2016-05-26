@@ -74,7 +74,7 @@ Once ran, the code above should output (line => token_id: token_value):
 
 Natural languages
 -----------------
-Lexeme can also be used for natral language processing. Here's a quick example on how to do it.
+Lexeme can also be used for natural language processing. Here's a quick example on how to do it.
 
 ```ruby
 require 'lexeme'
